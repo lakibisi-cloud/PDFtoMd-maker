@@ -1,8 +1,8 @@
-# Porter
+# PDFtoMd-maker
 
 We're hitting Claude's context limits faster and it's getting expensive. One culprit: the PDF tax. PDFs waste 80% of tokens on formatting noise. Convert to Markdown first, and the same document costs a quarter of the tokens.
 
-Porter automates this. Drag a PDF onto it, get clean Markdown back. Takes 10 minutes to set up on macOS.
+PDFtoMd-maker automates this. Drag a PDF onto it, get clean Markdown back. Takes 10 minutes to set up on macOS.
 
 ## Setup
 
